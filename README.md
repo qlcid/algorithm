@@ -11,3 +11,4 @@
   * [17472 - 다리 만들기2] https://github.com/qlcid/algorithm/blob/master/algo0326/BOJ_17472.md
   * [15684 - 사다리 조작] https://github.com/qlcid/algorithm/blob/master/algo0403/BOJ_15684.md
   * [2468 - 안전 영역] https://github.com/qlcid/algorithm/blob/master/algo0404/BOJ_2468.md
+  * [10026 - 적록색약] https://github.com/qlcid/algorithm/blob/master/algo0404/BOJ_10026.md
