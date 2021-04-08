@@ -12,3 +12,4 @@
   * [15684 - 사다리 조작] https://github.com/qlcid/algorithm/blob/master/algo0403/BOJ_15684.md
   * [2468 - 안전 영역] https://github.com/qlcid/algorithm/blob/master/algo0404/BOJ_2468.md
   * [10026 - 적록색약] https://github.com/qlcid/algorithm/blob/master/algo0404/BOJ_10026.md
+  * [15686 - 치킨 배달] https://github.com/qlcid/algorithm/blob/master/algo0405/BOJ_15686.md
