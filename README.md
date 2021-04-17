@@ -15,3 +15,4 @@
   * [15686 - 치킨 배달] https://github.com/qlcid/algorithm/blob/master/algo0405/BOJ_15686.md
   * [2638 - 치즈] https://github.com/qlcid/algorithm/blob/master/algo0408/BOJ_2638.md
   * [17471 - 게리맨더링] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_17471.md
+  * [3055 - 탈출] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_3055.md
