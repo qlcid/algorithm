@@ -17,3 +17,6 @@
   * [17471 - 게리맨더링] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_17471.md
   * [3055 - 탈출] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_3055.md
   * [2239 - 스도쿠] https://github.com/qlcid/algorithm/blob/master/algo0417/BOJ_2239.md
+
+  * SWEA
+  * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
