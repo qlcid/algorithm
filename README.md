@@ -22,3 +22,4 @@
 
   * SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
+  * [5656 - 벽돌깨기] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_5656.md
