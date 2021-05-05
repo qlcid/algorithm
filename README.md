@@ -14,13 +14,14 @@
   * [10026 - 적록색약] https://github.com/qlcid/algorithm/blob/master/algo0404/BOJ_10026.md
   * [15686 - 치킨 배달] https://github.com/qlcid/algorithm/blob/master/algo0405/BOJ_15686.md
   * [2638 - 치즈] https://github.com/qlcid/algorithm/blob/master/algo0408/BOJ_2638.md
+  * [7569 - 토마토] https://github.com/qlcid/algorithm/blob/master/algo0414/BOJ_7569.md
   * [17471 - 게리맨더링] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_17471.md
   * [3055 - 탈출] https://github.com/qlcid/algorithm/blob/master/algo0416/BOJ_3055.md
   * [2239 - 스도쿠] https://github.com/qlcid/algorithm/blob/master/algo0417/BOJ_2239.md
   * [1194 - 달이 차오른다, 가자.] https://github.com/qlcid/algorithm/blob/master/algo0421/BOJ_1194.md
   * [15683 - 감시] https://github.com/qlcid/algorithm/blob/master/algo0421/BOJ_15683.md
   * [2206 - 벽 부수고 이동하기] https://github.com/qlcid/algorithm/blob/master/algo0502/BOJ_2206.md
-  * [6593- 상범 빌딩] https://github.com/qlcid/algorithm/blob/master/algo0504/BOJ_6593.md
+  * [6593 - 상범 빌딩] https://github.com/qlcid/algorithm/blob/master/algo0504/BOJ_6593.md
 
   * SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
