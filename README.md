@@ -22,6 +22,7 @@
   * [15683 - 감시] https://github.com/qlcid/algorithm/blob/master/algo0421/BOJ_15683.md
   * [2206 - 벽 부수고 이동하기] https://github.com/qlcid/algorithm/blob/master/algo0502/BOJ_2206.md
   * [6593 - 상범 빌딩] https://github.com/qlcid/algorithm/blob/master/algo0504/BOJ_6593.md
+  * [5427 - 불] https://github.com/qlcid/algorithm/blob/master/algo0508/BOJ_5427.md
 
   * SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
