@@ -25,8 +25,9 @@
   * [5427 - 불] https://github.com/qlcid/algorithm/blob/master/algo0508/BOJ_5427.md
   * [11404 - 플로이드] https://github.com/qlcid/algorithm/blob/master/algo0509/BOJ_11404.md
   * [14502 - 연구소] https://github.com/qlcid/algorithm/blob/master/algo0510/BOJ_14502.md
+  * [1941 - 소문난 칠공주] https://github.com/qlcid/algorithm/blob/master/algo0512/BOJ_1941.md
 
 
- * SWEA
+* SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
   * [5656 - 벽돌깨기] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_5656.md
