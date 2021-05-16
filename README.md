@@ -28,6 +28,7 @@
   * [1941 - 소문난 칠공주] https://github.com/qlcid/algorithm/blob/master/algo0512/BOJ_1941.md
   * [1309 - 동물원] https://github.com/qlcid/algorithm/blob/master/algo0513/BOJ_1309.md
   * [1043 - 거짓말] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_1043.md
+  * [11724 - 연결 요소의 개수] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_11724.md
 
 
 * SWEA
