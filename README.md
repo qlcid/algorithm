@@ -29,6 +29,7 @@
   * [1309 - 동물원] https://github.com/qlcid/algorithm/blob/master/algo0513/BOJ_1309.md
   * [1043 - 거짓말] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_1043.md
   * [11724 - 연결 요소의 개수] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_11724.md
+  * [1922 - 네트워크 연결] https://github.com/qlcid/algorithm/blob/master/algo0517/BOJ_1922.md
 
 
 * SWEA
