@@ -30,7 +30,7 @@
   * [1043 - 거짓말] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_1043.md
   * [11724 - 연결 요소의 개수] https://github.com/qlcid/algorithm/blob/master/algo0515/BOJ_11724.md
   * [1922 - 네트워크 연결] https://github.com/qlcid/algorithm/blob/master/algo0517/BOJ_1922.md
-  * [17153 - 캐슬디펜스] https://github.com/qlcid/algorithm/blob/master/algo0529/BOJ_17153.md
+  * [17135 - 캐슬디펜스] https://github.com/qlcid/algorithm/blob/master/algo0529/BOJ_17135.md
 
 
 * SWEA
