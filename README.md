@@ -38,5 +38,6 @@
 
 
 * SWEA
-  * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_4062.md
-  * [5656 - 벽돌깨기] https://github.com/qlcid/algorithm/blob/master/algo0419/BOJ_5656.md
+  * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
+  * [5656 - 벽돌깨기] https://github.com/qlcid/algorithm/blob/master/algo0415/SWEA_5656.md
+  * [6808 - 규영이와 인영이의 카드게임] https://github.com/qlcid/algorithm/blob/master/algo0608/SWEA_6808.md
