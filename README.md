@@ -38,7 +38,7 @@
   * [11780 - 플로이드2] https://github.com/qlcid/algorithm/blob/master/algo0609/BOJ_11780.md
   * [11779 - 최소비용 구하기2] https://github.com/qlcid/algorithm/blob/master/algo0610/BOJ_11779.md
   * [2579 - 계단 오르기] https://github.com/qlcid/algorithm/blob/master/algo0713/BOJ_2579.md
-
+  * [14588 - Lines Friends] https://github.com/qlcid/algorithm/blob/master/algo0718/BOJ_14588.md
 
 * SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
