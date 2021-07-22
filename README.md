@@ -39,7 +39,7 @@
   * [11779 - 최소비용 구하기2] https://github.com/qlcid/algorithm/blob/master/algo0610/BOJ_11779.md
   * [2579 - 계단 오르기] https://github.com/qlcid/algorithm/blob/master/algo0713/BOJ_2579.md
   * [14588 - Lines Friends] https://github.com/qlcid/algorithm/blob/master/algo0718/BOJ_14588.md
-  * [14588 - Lines Friends] https://github.com/qlcid/algorithm/blob/master/algo0719/BOJ_11053.md
+  * [1932 - 정수 삼각형] https://github.com/qlcid/algorithm/blob/master/algo0723/BOJ_1932.md
 
 * SWEA
   * [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
