@@ -42,6 +42,7 @@
   - [14588 - Lines Friends] https://github.com/qlcid/algorithm/blob/master/algo0718/BOJ_14588.md
   - [1932 - 정수 삼각형] https://github.com/qlcid/algorithm/blob/master/algo0723/BOJ_1932.md
   - [16954 - 움직이는 미로 탈출] https://github.com/qlcid/algorithm/blob/master/algo0824/BOJ_16954.md
+  - [10546 - 배부른 마라토너] https://github.com/qlcid/algorithm/blob/master/algo0824/BOJ_10546.md
 
 - SWEA
   - [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
