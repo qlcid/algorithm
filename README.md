@@ -44,6 +44,7 @@
   - [16954 - 움직이는 미로 탈출] https://github.com/qlcid/algorithm/blob/master/algo0824/BOJ_16954.md
   - [10546 - 배부른 마라토너] https://github.com/qlcid/algorithm/blob/master/algo0824/BOJ_10546.md
   - [18243 - Small World Network] https://github.com/qlcid/algorithm/blob/master/algo0828/BOJ_18243.md
+  - [15565 - Small World Network] https://github.com/qlcid/algorithm/blob/master/algo0828/BOJ_15565.md
 
 - SWEA
   - [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
