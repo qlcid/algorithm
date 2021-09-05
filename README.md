@@ -46,6 +46,7 @@
   - [18243 - Small World Network] https://github.com/qlcid/algorithm/blob/master/algo0828/BOJ_18243.md
   - [15565 - 귀여운 라이언] https://github.com/qlcid/algorithm/blob/master/algo0828/BOJ_15565.md
   - [15886 - 내 선물을 받아줘2] https://github.com/qlcid/algorithm/blob/master/algo0831/BOJ_15886.md
+  - [14442 - 벽 부수고 이동하기2] https://github.com/qlcid/algorithm/blob/master/algo0904/BOJ_14442.md
 
 - SWEA
   - [4062 - LargestEmptySquare] https://github.com/qlcid/algorithm/blob/master/algo0419/SWEA_4062.md
